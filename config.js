@@ -92,7 +92,7 @@ const CONFIG = {
         autoplay: false,
         // ✅ Musica locale: crea la cartella "assets" e metti un mp3 (es: assets/musica.mp3)
         // ✅ Musica online: incolla un link diretto a un file .mp3
-        musicUrl: "assets/musica.mp3",
+        musicUrl: "assets/No. 1 Party Anthem - Arctic Monkey (slowed + reverb).mp3",
         startText: "🎵 Avvia musica",
         stopText: "🔇 Ferma musica",
         volume: 0.55
